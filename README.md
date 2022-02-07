@@ -1,3 +1,7 @@
+![Demo](https://media.giphy.com/media/Shrct5UOxVw4rAooLo/giphy.gif)
+
+
+
 ### ¿Que es?
 **BYPASS CFX JOIN URL** es un simple script que lo que realiza es obtener del header de CFX.re el valor real detras del join url (el mismo puede ser una url o una ip:puerto)
 
