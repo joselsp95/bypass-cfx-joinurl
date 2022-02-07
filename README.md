@@ -1,5 +1,4 @@
 ![](http://githubbadges.com/star.svg?user=joselsp95&repo=bypass-cfx-joinurl&background=007ecg&color=bbb&style=flat) 
-<br />
 ![](http://githubbadges.com/fork.svg?user=joselsp95&repo=bypass-cfx-joinurl&background=007ecg&color=bbb&style=flat)
 <br />
 ![Demo](https://media.giphy.com/media/pjOO6pev7YzriFz5rW/giphy.gif)
