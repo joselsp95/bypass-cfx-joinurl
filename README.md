@@ -14,10 +14,10 @@ PHP + HTML + [pico.css](https://picocss.com/ "pico.css")
 
 
 
-![](https://bypass-cfx-joinurl.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-![](https://img.shields.io/github/stars/bypass-cfx-joinurl/editor.md.svg) ![](https://img.shields.io/github/forks/bypass-cfx-joinurl/editor.md.svg) ![](https://img.shields.io/github/tag/bypass-cfx-joinurl/editor.md.svg) ![](https://img.shields.io/github/release/bypass-cfx-joinurl/editor.md.svg) ![](https://img.shields.io/github/issues/bypass-cfx-joinurl/editor.md.svg)
 
+![](http://githubbadges.com/star.svg?user=joselsp95&repo=bypass-cfx-joinurl&background=007ecg&color=bbb&style=flat) 
+![](http://githubbadges.com/fork.svg?user=joselsp95&repo=bypass-cfx-joinurl&background=007ecg&color=bbb&style=flat)
 
 
 ###Links
