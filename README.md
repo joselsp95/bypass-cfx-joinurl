@@ -14,9 +14,11 @@ Primero realiza un CURL a la url de cfx.re que soliciten en el textbox, y del he
 PHP + HTML + [pico.css](https://picocss.com/ "pico.css")
 
 
-### Cosas a mejorar
+### Cosas a mejorar / agregar
 - Verificacion de las url, no verifica si es una url de cfx o no, de poner otra va a extraer cualquier cosa
 - UI/UX 
+- Un boton para hacer whois a la ip/dominio
+
 
 
 
