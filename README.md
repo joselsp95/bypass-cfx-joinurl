@@ -27,10 +27,7 @@ PHP + HTML + [pico.css](https://picocss.com/ "pico.css")
 
 
 
-###Links
 
-
-`<Script Funcionando>` : https://metrystudio.com/lab/bypasscfx
 
 
 
