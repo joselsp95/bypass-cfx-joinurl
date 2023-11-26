@@ -18,6 +18,8 @@ PHP + HTML + [pico.css](https://picocss.com/ "pico.css")
 - Verificacion de las url, no verifica si es una url de cfx o no, de poner otra va a extraer cualquier cosa
 - UI/UX 
 - Un boton para hacer whois a la ip/dominio
+- traer mas datos de la url bypasseada (owner, build, etc)
+- traer en que ASN esta alojada la ip 
 
 
 
